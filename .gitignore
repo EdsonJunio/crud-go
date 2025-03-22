@@ -1,0 +1,37 @@
+# Geral
+.DS_Store
+node_modules/
+dist/
+build/
+docs/
+.env
+*.log
+
+# Go
+/bin/
+/pkg/
+**/*.exe
+**/*.out
+**/*.test
+
+# Go Modules
+/go.sum
+/go.mod
+
+# IDEs e Ferramentas
+.vscode/
+.idea/
+*.iml
+
+# Vue.js
+/node_modules/
+/dist/
+/.cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# Outros
+coverage/
+*.swp
+*.swo
